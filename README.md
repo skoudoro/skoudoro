@@ -3,7 +3,7 @@
 ---
 
 - 🔭  I’m currently Software Engineer at **Indiana University**
-- 🔥  I'm currently working on the following opensource projects:
+- 🔥  I'm working on the following opensource projects:
   - [DIPY](https://github.com/dipy/dipy) - Contributor & one of the core Maintainer
   - [FURY](https://github.com/fury-gl/fury) - Contributor & Core Maintainer
 - ⚙️  I use daily: .py, .c, .cxx, .html, .css, .js
