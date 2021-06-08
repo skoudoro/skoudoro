@@ -10,10 +10,11 @@
 - 🌍  I'm mostly active within the **NeuroScience Community**
 - 🌱  I’m still learning a lot about **Open Source** #MaintainerLife
 - 📫  Feel free to reach me on [Twitter](https://twitter.com/skoudoro) or [linkedin](https://www.linkedin.com/in/serge-koudoro), link below.
-- 🏛️  Some side projects during my spare time:
+- 🏛️  Some side projects during my free time:
   - [MailerLite-Api-Python](https://github.com/skoudoro/mailerlite-api-python)
   - [NGOmetrics](https://ngometrics.com/)
-  - [Hoopster]() coming soon...
+  - Hoopster coming soon...
+
 
 <p><pre align="center">
 <a href="https://twitter.com/skoudoro">Twitter</a> / <a href="https://github.com/skoudoro">GitHub</a> / <a href="https://gist.github.com/skoudoro">Gist</a> / <a href="https://www.linkedin.com/in/serge-koudoro">LinkedIn</a> 
