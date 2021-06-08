@@ -13,6 +13,7 @@
 - 🏛️  Some side projects during my free time:
   - [MailerLite-Api-Python](https://github.com/skoudoro/mailerlite-api-python)
   - [NGOmetrics](https://ngometrics.com/)
+  - [PythonAstuces](https://pythonastuces.com)
   - Hoopster coming soon...
 
 
