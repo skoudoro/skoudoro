@@ -9,7 +9,7 @@
 - ⚙️  I use daily: .py, .c, .cxx, .html, .css, .js
 - 🌍  I'm mostly active within the **NeuroScience Community**
 - 🌱  I’m still learning a lot about **Open Source** #MaintainerLife
-- 📫  Feel free to reach me on [Twitter](https://twitter.com/skoudoro) or [linkedin](https://www.linkedin.com/in/serge-koudoro), link below.
+- 📫  Feel free to reach me on [Twitter](https://twitter.com/skoudoro) or [linkedin](https://www.linkedin.com/in/serge-koudoro)
 - 🏛️  Some side projects during my free time:
   - [MailerLite-Api-Python](https://github.com/skoudoro/mailerlite-api-python)
   - [NGOmetrics](https://ngometrics.com/)
