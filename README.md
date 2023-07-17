@@ -12,8 +12,9 @@
 - 📫  Feel free to reach me on [Twitter](https://twitter.com/skoudoro) or [linkedin](https://www.linkedin.com/in/serge-koudoro)
 - 🏛️  Some side projects during my free time:
   - [GAPPS](https://github.com/skoudoro/gapps)
-  - [MailerLite-Api-Python](https://github.com/skoudoro/mailerlite-api-python)
+  - [ICalSync](https://futzs.com/apps/icalsync)
   - [NGOmetrics](https://ngometrics.com/)
+  - [MailerLite-Api-Python](https://github.com/skoudoro/mailerlite-api-python) (archived)
   - [PythonAstuces](https://pythonastuces.com)
 
 
